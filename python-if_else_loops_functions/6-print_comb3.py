@@ -6,4 +6,3 @@ for i in range(10):
             print("{}".format(i) + "{}".format(j))
         else:
             print("{}".format(i) + "{}".format(j), end=", ")
-
