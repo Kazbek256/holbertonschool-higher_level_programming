@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 for i in range(99):
-    print("{} = 0x{:x}".format(i, i), end='\n' if i < 98 else '')
+    print("{} = 0x{:x}".format(i, i))
+
 
 
 
